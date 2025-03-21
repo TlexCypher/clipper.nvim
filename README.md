@@ -65,6 +65,11 @@ Below is a brief example.
 }
 ```
 
+You can remap with Clipper command like below example.
+```lua
+vim.keymap.set("n", "<leader>cc", "<cmd>Clipper<CR>")
+```
+
 ## Contribution
 Any type of contribution is welcome!
 I'm looking forward to recieve PR, comments!
